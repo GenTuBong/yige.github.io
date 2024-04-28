@@ -1,8 +1,3 @@
-body {
-  margin: 0; /* 移除body的默认外边距 */  
-  padding: 0; /* 移除body的默认内边距 */ 
-}
-
 .zhu {
   margin-left: auto;
   margin-right: auto;
