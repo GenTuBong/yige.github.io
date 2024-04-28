@@ -1,16 +1,17 @@
+
 .zhu {
   margin-left: auto;
   margin-right: auto;
-  width: 370px;
-  height: 100px;
+  width: 950px;
+  height: 600px;
   border-radius: 13px;
   background-color: rgba(241, 117, 40, 0.452);
 }
 
 .guanyu {
   float: right;
-  width: 40px;
-  height: 40px;
+  width: 80px;
+  height: 80px;
   margin-top: 4%;
   border-radius: 3px;
   background-color: rgba(27, 93, 190, 0.776);
@@ -37,11 +38,11 @@
   justify-content: center; /* 水平居中 */  
   align-items: center; /* 垂直居中 */ 
   width: 70%;
-  height: 60px;
+  height: 120px;
   border-radius: 10px;
   background-color: rgba(27, 93, 190, 0.776);
   border: 1px solid #000; 
-  font-size: 200%;
+  font-size: 500%;
 }
 
 .biaoti-nei-fenlei {
@@ -51,11 +52,11 @@
   margin-left: 2%;
   margin-right: 2%;
   width: 30%;
-  height: 45px;
+  height: 90px;
   border-radius: 10px;
   background-color: rgba(81, 94, 114, 0.776);
   border: 1px solid #000; 
-  font-size: 100%;
+  font-size: 300%;
 }
 
 .biaoti-nei-liebiao {
@@ -70,9 +71,9 @@
   float: left;
   margin-left: 1%;
   width: 98%;
-  height: 85px;
-  margin-top: 5%;
-  margin-bottom: 5%;
+  height: 200px;
+  margin-top: 4%;
+  margin-bottom: 4%;
   border-radius: 10px;
   background-color: rgba(81, 94, 114, 0.776);
   clear: both;
