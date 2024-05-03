@@ -9,6 +9,7 @@
     height: 130px;
     border-radius: 20px;
     background-color: rgba(63, 71, 83, 0.776);
+    color: red;
     font-size: 540%;
 }
 
@@ -24,4 +25,32 @@
     border-radius: 20px;
     background-color: rgba(63, 71, 83, 0.776);
     font-size: 400%;
+}
+
+.lianxi {
+    display: flex;  
+    align-items: center; /* 垂直居中 */  
+    justify-content: center; /* 水平居中 */
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    height: 80px;
+    margin-top: 760px;
+    border-radius: 20px;
+    background-color: rgba(190, 190, 190, 0.776);
+    font-size: 200%;
+}
+
+.lianxi1 {
+    display: flex;  
+    align-items: center; /* 垂直居中 */  
+    justify-content: center; /* 水平居中 */
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    height: 80px;
+    margin-top: 10px;
+    border-radius: 20px;
+    background-color: rgba(190, 190, 190, 0.776);
+    font-size: 200%;
 }
